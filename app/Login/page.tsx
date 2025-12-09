@@ -54,14 +54,14 @@ export default function Login() {
                             />
                         </div>
 
-                      <Link
-  href="/Dashboard"
-  className="block mt-2 w-full text-center rounded-xl bg-linear-to-br from-zinc-700/30 via-zinc-500/10 to-transparent 
+                        <Link
+                            href="/Dashboard"
+                            className="block mt-2 w-full text-center rounded-xl bg-linear-to-br from-zinc-700/30 via-zinc-500/10 to-transparent 
   hover:bg-neutral-900 hover:border-neutral-700 hover:border border-zinc-500 border 
   px-4 py-3 text-sm font-medium text-white transition-all hover:scale-[1.03] active:scale-95"
->
-  Sign In
-</Link>
+                        >
+                            Sign In
+                        </Link>
 
                         <Link
                             href="/Dashboard"
